@@ -15,7 +15,7 @@ Ensure you have the following libraries installed:
 You can install the required libraries using pip:
 ```bash
 pip install streamlit langchain langchain_chroma langchain_core langchain_openai
-
+```
 ## Project Structure
 
 - **Main functionality**:
